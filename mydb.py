@@ -1,3 +1,5 @@
+# Create DB
+
 import mysql.connector
 
 dataBase = mysql.connector.connect(
