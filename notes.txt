@@ -1,3 +1,6 @@
 DB -> localhost/root/12345678
 
 Superuser -> admin/ymambaba00
+
+
+Stopped at Individual Records:  https://youtu.be/t10QcFx7d5k?t=5901
