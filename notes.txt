@@ -1,0 +1,3 @@
+DB -> localhost/root/12345678
+
+Superuser -> admin/ymambaba00
